@@ -24,7 +24,7 @@ This project is a web-based clone of the popular music streaming service, Spotif
 
 ## 📸 Screenshots
 
-<img width="1902" height="997" alt="image" src="https://github.com/user-attachments/assets/spotify-cloneSS" />
+<img width="1902" height="997" alt="image" src="https://github.com/assets/Spotify-cloneSS" />
 
 
 ## 💻 How to Run Locally
